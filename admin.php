@@ -9,7 +9,7 @@
         .sarlavha {
             height: 30%;
             position: center;
-            color: white;
+            color: black;
         }
 
         .main {
