@@ -10,6 +10,7 @@
             height: 30%;
             position: center;
             color: black;
+
         }
 
         .main {
@@ -17,7 +18,7 @@
             height: 50%;
             margin-left: 10%;
             margin-top: 5%;
-            border: 1px solid white;
+            border: 1px solid pink;
         }
 
         .title {
